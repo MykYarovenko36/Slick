@@ -3,7 +3,7 @@ $(document).ready(() => {
         dots: true,
         infinity: true,
         slidesToShow: 3,
-        centerMode: true,
+        centerMode: false,
         arrows: true,
         rows: 2,
         slidesPerRow: 1,
